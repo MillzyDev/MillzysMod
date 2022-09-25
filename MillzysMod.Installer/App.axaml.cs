@@ -17,12 +17,13 @@ namespace MillzysMod.Installer
         {
             if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
-                desktop.MainWindow = new MainWindow
+                desktop.MainWindow = new StartWindow
                 {
-                    DataContext = new MainWindowViewModel(),
+                    DataContext = new StartWindowViewModel(),
                     Width = 700d,
                     Height = 400d,
-                    CanResize = false,              
+                    CanResize = false,
+                    WindowStartupLocation = Avalonia.Controls.WindowStartupLocation.CenterScreen
                 };
             }
 

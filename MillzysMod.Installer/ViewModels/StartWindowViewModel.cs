@@ -4,8 +4,7 @@ using System.Text;
 
 namespace MillzysMod.Installer.ViewModels
 {
-    public class MainWindowViewModel : ViewModelBase
+    public class StartWindowViewModel : ViewModelBase
     {
-        
     }
 }

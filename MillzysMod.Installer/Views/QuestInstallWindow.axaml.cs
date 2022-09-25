@@ -2,9 +2,9 @@ using Avalonia.Controls;
 
 namespace MillzysMod.Installer.Views
 {
-    public partial class MainWindow : Window
+    public partial class QuestInstallWindow : Window
     {
-        public MainWindow()
+        public QuestInstallWindow()
         {
             InitializeComponent();
         }

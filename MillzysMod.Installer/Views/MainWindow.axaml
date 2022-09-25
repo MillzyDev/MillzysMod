@@ -1,0 +1,29 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:MillzysMod.Installer.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="MillzysMod.Installer.Views.MainWindow"
+        Icon="/Assets/MM-Icon.ico"
+        Title="Millzy's Mod Installer"
+	
+	    TransparencyLevelHint="AcrylicBlur">
+	
+	<Window.Background>
+		<ImageBrush Source="/Assets/bonelab-hero.jpg"></ImageBrush>
+	</Window.Background>
+
+    <Design.DataContext>
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="20">
+		<Image Width="500" Source="/Assets/MM-full-small-cropped.png"></Image>
+		<TextBlock Text="Please select a platform." VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"></TextBlock>
+		<StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="15">
+			<Button Width="150" Height="35" FontSize="20" Background="HotPink" HorizontalAlignment="Center" Content="Quest" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Button>
+			<Button IsEnabled="False" Width="150" Height="35" FontSize="20" Background="HotPink" HorizontalAlignment="Center" Content="PC" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Button>
+		</StackPanel>
+	</StackPanel>
+</Window>

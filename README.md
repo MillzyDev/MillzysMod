@@ -17,6 +17,7 @@
   - [Quest](#quest)
   - [PC](#pc)
 - [How To Use](#how-to-use)
+- [Credits](#credits)
 
 -----
 
@@ -61,3 +62,6 @@ WIP
 
 # How To Use
 WIP
+
+# Credits
+- [QuestPatcher & QuestPatcher.Core - **Lauriethefish**](https://github.com/Lauriethefish/QuestPatcher)

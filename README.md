@@ -53,6 +53,8 @@ Creates an asset of selected objects allowing it them to be saved and loaded at 
 ## API
 Millzy's Mod will have a simple API allowing other external mods to interface with it, add their own tools to the [Toolgun](#toolgun) as well as other things. The API for the Quest and PC versions will be different: Quest will be interfaced with using C++, PC will most-likely be interfaced with using C#.
 
+The API will also expose base-game modding functionality, allowing for the creation of SWEPS and other scripted entities to be much easier.
+
 # Installation
 WIP
 ## Quest

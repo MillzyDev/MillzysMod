@@ -1,9 +1,12 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MillzysMod.Installer", "MillzysMod.Installer.csproj", "{F6F016E9-46DF-4C4D-9BB3-C6AF10E8483C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MillzysMod.Installer", "MillzysMod.Installer.csproj", "{F6F016E9-46DF-4C4D-9BB3-C6AF10E8483C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestPatcher.Core", "..\QuestPatcher.Core\QuestPatcher.Core.csproj", "{7012F86A-609F-44DD-82E9-68BEB0B21297}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestPatcher.Axml", "..\QuestPatcher.Axml\QuestPatcher.Axml.csproj", "{AE12B4E2-D83F-483B-B963-7939E9E44A66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +18,14 @@ Global
 		{F6F016E9-46DF-4C4D-9BB3-C6AF10E8483C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F016E9-46DF-4C4D-9BB3-C6AF10E8483C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F016E9-46DF-4C4D-9BB3-C6AF10E8483C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7012F86A-609F-44DD-82E9-68BEB0B21297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7012F86A-609F-44DD-82E9-68BEB0B21297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7012F86A-609F-44DD-82E9-68BEB0B21297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7012F86A-609F-44DD-82E9-68BEB0B21297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE12B4E2-D83F-483B-B963-7939E9E44A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE12B4E2-D83F-483B-B963-7939E9E44A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE12B4E2-D83F-483B-B963-7939E9E44A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE12B4E2-D83F-483B-B963-7939E9E44A66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

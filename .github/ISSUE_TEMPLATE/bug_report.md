@@ -11,9 +11,9 @@ assignees: ''
 (What is the problem?)
 
 **Steps to Reproduce:** <br>
-(Your goto way to recreate this bug.)
-1.
-2.
+(Your goto way to recreate this bug.) <br>
+1. <br>
+2. <br>
 3.
 
 **Expected Behaviour:** <br>

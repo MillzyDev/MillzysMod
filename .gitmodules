@@ -1,0 +1,3 @@
+[submodule "templates/templatr"]
+	path = templates/templatr
+	url = https://github.com/QuestPackageManager/templatr.git

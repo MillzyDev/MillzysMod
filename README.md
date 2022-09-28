@@ -66,4 +66,4 @@ WIP
 WIP
 
 # Credits
-- [QuestPatcher & QuestPatcher.Core - **Lauriethefish**](https://github.com/Lauriethefish/QuestPatcher)
+- [QuestPatcher.Core & QuestPatcher.AXML - **Lauriethefish**](https://github.com/Lauriethefish/QuestPatcher)

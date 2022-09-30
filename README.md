@@ -1,6 +1,6 @@
 ![](https://github.com/MillzyDev/MillzysMod/raw/main/resources/MM-full-small-cropped.png)
 -----
-### Millzy's Mod is an external mod for BONELAB that adds features, weapons and tools from Half-Life 2 and Garry's Mod in to the game.
+### Millzy's Mod is an externally loader mod for BONELAB that adds features, weapons and tools from Half-Life 2 and Garry's Mod in to the game. It also hosts a few QOL features as well as some utilities for other externally loaded mods to use such as UI.
 -----
 ### ⚠️ DISCLAIMER ⚠️
 #### Millzy's Mod will be a Quest-Only release initially - I don't have access to a PC that would be capable of running BONELAB at the moment, nor do I know if BONELAB will feature some form of FPFC. So a PC version of this is on-hold until I get my hands on new hardware.

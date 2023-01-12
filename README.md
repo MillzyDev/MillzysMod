@@ -15,7 +15,6 @@ A:
 - Gravity Gun
 - Camera (with rendering)
 - Toolgun
-- Welding
 - Precision
 - Freeze
 - Reset Button (puts you at the start of the level)
